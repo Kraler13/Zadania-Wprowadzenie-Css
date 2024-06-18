@@ -1,0 +1,22 @@
+body{
+    background-color: #f5f5dd;
+    width: 40em;
+    height: 70em;
+}
+div{
+    background-color: black;
+    width: 20em;
+    height: 20em;
+}
+#cls1{
+    background-color: rgba(0, 0, 0, 1);
+}
+#cls2{
+    background-color: rgba(0, 0, 0, 0.75);
+}
+#cls3{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#cls4{
+    background-color: rgba(0, 0, 0, 0.25);
+}
