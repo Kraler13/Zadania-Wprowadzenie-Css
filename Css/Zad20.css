@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+h1{
+    background-color: aqua;
+}
+p{
+    background-color:yellow;
+}
+h2{
+    background-color:green;
+}
+#p2{
+    background-color:red;
+}
+ol{
+    background-color: azure;
+}
+li{
+    background-color: blueviolet;
+}
