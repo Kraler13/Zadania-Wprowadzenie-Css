@@ -1,0 +1,6 @@
+h1, h3, p{
+    color: blue;
+}
+h1 + h3 {
+    color: black;
+}
