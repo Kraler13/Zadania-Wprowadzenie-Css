@@ -1,9 +1,14 @@
 section{
-    background-color: #808080; width: 25%; height: 70em;
+    background-color: #808080; 
+    width: 25%; 
+    height: 70em;
 }
 h1{
     color: white;
 }
 div{
-    background-color: #fea500; width: 10em; height: 10em; 
+    background-color: #fea500; 
+    width: 10em; 
+    height: 10em; 
+    margin: 1em;
 }
